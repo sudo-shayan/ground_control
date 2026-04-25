@@ -1,0 +1,27 @@
+# Dependency directories
+.dart_tool/
+.project
+.classpath
+.settings/
+bin/
+build/
+lib/generated/
+
+# Flutter/Dart
+.packages
+.pub-cache/
+.pub/
+pubspec.lock
+**/*.paks
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Documentation (Optional, but usually not in the package)
+PLAN.md
+PROGRESS.md
+PROJECT.md
+PLAN_*.md
+customization_plan.md
+fix_no_internet_plan.md
