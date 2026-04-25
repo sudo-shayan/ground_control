@@ -50,7 +50,7 @@ class _GroundControlExampleAppValidState extends State<GroundControlExampleApp> 
       controller: _groundControlController,
       // In a real app, this would be your server URL
       // For this example, we manipulate the state internally via the Mock Panel
-      configUrl: 'https://raw.githubusercontent.com/USER/ground_control/main/example/mock_config.json',
+      configUrl: 'https://raw.githubusercontent.com/sudo-shayan/ground_control/main/example/mock_config.json',
       appVersion: '1.5.0',
       theme: GroundControlTheme(
         // Customizing the theme to match our demo's aesthetic

@@ -80,7 +80,7 @@ class _MaintenanceScreenState extends State<MaintenanceScreen> with SingleTicker
                 Container(
                   padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                   decoration: BoxDecoration(
-                    color: widget.theme.maintenanceIconColor.withOpacity(0.1),
+                    color: widget.theme.maintenanceIconColor.withValues(alpha: 0.1),
                     borderRadius: BorderRadius.circular(20),
                   ),
                   child: Text(
