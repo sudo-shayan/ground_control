@@ -1,6 +1,6 @@
 name: ground_control
 description: "A lightweight Flutter package that handles no-internet detection, force updates, maintenance mode, and what's new changelogs via remote JSON config."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/sudo-shayan/ground_control
 repository: https://github.com/sudo-shayan/ground_control
 issue_tracker: https://github.com/sudo-shayan/ground_control/issues

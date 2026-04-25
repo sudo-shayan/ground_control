@@ -31,7 +31,7 @@ Add `ground_control` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  ground_control: ^1.0.0
+  ground_control: ^1.0.1
 ```
 
 ## Quick Start
