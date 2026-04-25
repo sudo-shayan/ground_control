@@ -8,7 +8,7 @@
 
 | No Internet | Maintenance Mode | Force Update |
 | :---: | :---: | :---: |
-| ![No Internet](example/gifs/no%20internet.gif) | ![Maintenance](example/gifs/maintenance.gif) | ![Force Update](example/gifs/Force%20Update.gif) |
+| ![No Internet](example/assets/gifs/nointernet.gif) | ![Maintenance](example/assets/gifs/maintenance.gif) | ![Force Update](example/assets/gifs/forceupdate.gif) |
 
 ---
 
